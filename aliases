@@ -1,0 +1,13 @@
+# -------
+# PHPUnit Aliases
+# -------
+alias p="phpunit"
+alias pf="phpunit --filter"
+
+# -------
+# Git Aliases
+# -------
+alias gpu="git push --set-upstream origin"
+alias gc="git checkout"
+alias gb="git branch"
+alias gcb="git checkout -b"
